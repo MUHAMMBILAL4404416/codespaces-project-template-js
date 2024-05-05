@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Event Pik.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My First MLSA Event";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Host and Speaker of Event Cracking MLSA IN 2024 💜",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discussed Complete registration process in detail to become Microsoft Learn Student Ambassador",
+    url: "https://youtu.be/ZhbjMx2BvKk",
   },
   {
-    title: "Web Development for Beginners",
+    title: "First 3D Personal Website💖",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this 3d portfoloio website i have included my my some peronal details and include the 3d animations and background",
+    url: "https://youtu.be/mK1p8KXowTs",
   },
   {
-    title: "My Resume Site",
+    title: "IEEE Workshop Event Winner🎉",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "It includes 3 main Events 1) NExt.js 2)Flutter 3) UI/UX Figma and also got swags from IEEE",
+    url: "https://www.linkedin.com/posts/muhammad-bilal-b6663925b_freeresources-getstarted-jointhecommunity-activity-7171756010276012032-xsog/?utm_source=share&utm_medium=member_android",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Animated 3D Presentation✨",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My best creative and Animated presentation so far",
+    url: "https://www.canva.com/design/DAFVB697QGM/qYSMbQXSqJZsal34x66r_A/edit?utm_content=DAFVB697QGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
   },
 ];
 
